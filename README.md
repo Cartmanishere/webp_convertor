@@ -25,8 +25,8 @@ This script requires following python libraries installed in your environemnt
 	
 ``` 
  Webp Convertor
-	  |
-      ├───data
+    |
+    ├───data
           ├─── pack1
           ├─── pack2        
           ├─── pack3
@@ -40,7 +40,7 @@ Where each `pack` is a folder containing source images.
 
 ### Known Issues :
 
-* This script is heavily under development. Alwaya switch to the latest verison before using.
+* This script is heavily under development. Always switch to the latest verison before using.
 * Some formats or some edge cases in the images may generate error. Please open an issue if you find such instances.
 
 ### License :
