@@ -14,8 +14,9 @@ Any differences in dimensions are resolved by adding alpha padding (transparent 
 
 This script requires following python libraries installed in your environemnt
 
-1. numpy
-2. PIL
+1. ```numpy```
+2. ```PIL```
+3. Webp convertor which can be obtained from [here].(https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html)
 
 ### Usage
 
