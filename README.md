@@ -23,12 +23,14 @@ This script requires following python libraries installed in your environemnt
 
 - Put the images you want to convert into `data` folder in the root of the repository -
 	
-``` Webp Convertor
+``` 
+ Webp Convertor
 	  |
       ├───data
-      │   └───pack1
-      |   └───pack2
-      |   └───pack3```
+          ├─── pack1
+          ├─── pack2        
+          ├─── pack3
+```
 
 Where each `pack` is a folder containing source images.
 
